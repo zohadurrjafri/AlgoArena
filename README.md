@@ -1,7 +1,3 @@
-Here's a professional and well-organized **README** for your project **AlgoArena**:
-
----
-
 # 🧠 AlgoArena – Coding Contest & Evaluation Platform
 
 AlgoArena is a MERN-based coding contest platform designed for **college-level implementation**, enabling institutions to **track real-time coding performance** and ensure **academic integrity** during online contests. Built with a strong focus on **proctoring**, **fair evaluation**, and **detailed reporting**, AlgoArena provides students with a secure environment to demonstrate their coding skills.
@@ -129,8 +125,4 @@ We welcome contributions!
 ## 📬 Contact
 
 For any queries or suggestions, feel free to reach out via email or open an issue.
-
----
-
-Let me know if you'd like this converted into a markdown file or published as part of your repo!
 
