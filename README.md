@@ -39,6 +39,11 @@ AlgoArena is a MERN-based coding contest platform designed for **college-level i
 
 ---
 
+## 🌍 Live Demo  
+🚀 **[Click here to visit the live site](https://algo-arena-lilac.vercel.app/)**
+
+---
+
 ## 🛠 Tech Stack
 
 * **Frontend**: React.js
