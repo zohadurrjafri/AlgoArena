@@ -50,44 +50,35 @@ AlgoArena is a MERN-based coding contest platform designed for **college-level i
 
 ---
 
-<p align="center">
-  <img src="https://i.postimg.cc/SnkNWNBF/2.png" width="600" />
-</p>
-<hr/>
+![Portfolio Demo](https://i.postimg.cc/RZn6xWGF/2.png)
 
-<p align="center">
-  <img src="https://i.postimg.cc/N5h0jxb0/3.png" width="600" />
-</p>
-<hr/>
+---
 
-<p align="center">
-  <img src="https://i.postimg.cc/pmCVkMv9/4.png" width="600" />
-</p>
-<hr/>
+![Portfolio Demo](https://i.postimg.cc/yYx3nQZ0/3.png)
 
-<p align="center">
-  <img src="https://i.postimg.cc/gnv2X6BH/5.png" width="600" />
-</p>
-<hr/>
+---
 
-<p align="center">
-  <img src="https://i.postimg.cc/yJN1bp6L/6.png" width="600" />
-</p>
-<hr/>
+![Portfolio Demo](https://i.postimg.cc/d0P7sJS9/4.png)
 
-<p align="center">
-  <img src="https://i.postimg.cc/Q99XXBT5/7.png" width="600" />
-</p>
-<hr/>
+---
 
-<p align="center">
-  <img src="https://i.postimg.cc/wtbq857g/8.png" width="600" />
-</p>
-<hr/>
+![Portfolio Demo](https://i.postimg.cc/L6WYWttw/5.png)
 
-<p align="center">
-  <img src="https://i.postimg.cc/dkbJDq2f/9.png" width="600" />
-</p>
+---
+
+![Portfolio Demo](https://i.postimg.cc/g0Vxr1Cb/6.png)
+
+---
+
+![Portfolio Demo](https://i.postimg.cc/zBp3FKDd/7.png)
+
+---
+
+![Portfolio Demo](https://i.postimg.cc/76qfzm4G/8.png)
+
+---
+
+![Portfolio Demo](https://i.postimg.cc/6q3qjqyB/9.png)
 
 ---
 
