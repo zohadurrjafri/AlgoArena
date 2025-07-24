@@ -64,7 +64,7 @@ AlgoArena is built for **colleges and universities** that wish to:
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/AlgoArena.git
+git clone https://github.com/zohadurrjafri/AlgoArena.git
 cd AlgoArena
 ```
 
