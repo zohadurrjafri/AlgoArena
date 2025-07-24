@@ -44,10 +44,10 @@ AlgoArena is a MERN-based coding contest platform designed for **college-level i
 
 ---
 
-<h2 align="center">📷 Outcome</h2>
+## 📷 Outcomes
 
 <p align="center">
-  <img src="https://i.postimg.cc/5jQ0JrBG/1.png" width="400" />
+  <img src="https://i.postimg.cc/5jQ0JrBG/1.png" width="600" />
 </p>
 <hr/>
 
